@@ -1,0 +1,12 @@
+[submodule "STM32_OneDiode"]
+	path = STM32_OneDiode
+	url = https://github.com/DewBaunchee/STM32_OneDiode
+[submodule "STM32_ManyDiode"]
+	path = STM32_ManyDiode
+	url = https://github.com/DewBaunchee/STM32_ManyDiode
+[submodule "STM32_Stopwatch"]
+	path = STM32_Stopwatch
+	url = https://github.com/DewBaunchee/STM32_Stopwatch
+[submodule "STM32_UART"]
+	path = STM32_UART
+	url = https://github.com/DewBaunchee/STM32_UART
